@@ -1,0 +1,1 @@
+name file in org-details
